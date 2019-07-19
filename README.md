@@ -1,5 +1,7 @@
 # ELUNA 2019 DevDay+: Advanced Development Workshop
 
+[Presentation slide show on GoogleDocs](https://docs.google.com/presentation/d/e/2PACX-1vSIMn-AHtGWOSFagHjh9baMUu5Oi0l4wvbcDWlTmxdTBw0dsgqfK1N0u0CFv_PdwG6wo2Bi1M19EU3d/pub?start=false&loop=false&delayms=3000)
+
 ## Day 0 Preparation:
 
 ### Initial setup
